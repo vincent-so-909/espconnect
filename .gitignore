@@ -32,3 +32,8 @@ Desktop.ini
 
 # Linux
 *~
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
